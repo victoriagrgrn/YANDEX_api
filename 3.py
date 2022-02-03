@@ -4,6 +4,7 @@ import requests
 import sys
 import math
 
+# задачи 2-3
 
 LAT_STEP = 0.003  # Шаги при движении карты по широте и долготе
 LON_STEP = 0.002
